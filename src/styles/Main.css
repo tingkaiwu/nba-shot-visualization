@@ -1,10 +1,10 @@
-.main {
+.player {
     display: flex;
     width: 750px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 70px;
+    margin: auto;
     border: 3px solid #ccc;
     box-shadow: 5px 10px 10px #888;
     border-radius: 10px;
-}
+    overflow: hidden;
+   }
+   

@@ -1,0 +1,19 @@
+.search-bar {
+    width: 750px;
+    margin-bottom: 30px;
+ }
+ 
+ .player-option {
+    display: flex;
+    align-items: center;
+ }
+ 
+ .player-option-image {
+    height: 32px;
+ }
+ 
+ .player-option-label {
+    margin-left: 20px;
+    font-size: 15px;
+ }
+ 
