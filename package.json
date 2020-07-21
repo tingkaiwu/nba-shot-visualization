@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "3",
     "d3-shotchart": "^0.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "nba": "4.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
