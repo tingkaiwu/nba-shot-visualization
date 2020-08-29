@@ -1,4 +1,4 @@
-## NBA Shot-Visualization
+## NBA Shot Visualization
 
 <p>
   <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif">
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Photo Social Circle was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is a geo & photo based social media site, and I built it by React and token-based server-side user authentication (JWT). The purpose of this project was to learn how to use React to develop a morden framework frontend. In addition, I also created features, such as create/browse/search nearby posts, with GeoLocation API and Google Map API. Used Google Vision API to provide a face detection model, and integrate the model with the Go service. [The backend of this project](https://github.com/tingkaiwu/around-backend) was create in Golang, and used Elasticsearch (GCE) to provide geo-based search features
+NBA Shot Visualization was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is a dashboard to visualize NBA individual player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com, including a shot chart and user profile view. The purpose of this project was to learn how to use React to develop a morden framework frontend. In addition, I also created 4 filters and 2 shot themes (hexbin and scatter) to provide more customized choice on shot chart, and built an autocomplete player search bar providing a player’s suggestion list (image and name).
 	
 ## Requirement
 
@@ -22,6 +22,13 @@ cd nba-shot-visualization
 yarn
 yarn start
 ```
+
+## Skills
+- JavaScript
+- React
+- D3.js
+- Styled-Component
+- Sass
 
 ## Available Scripts
 
