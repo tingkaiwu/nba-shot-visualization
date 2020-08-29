@@ -1,7 +1,7 @@
 ## NBA Shot-Visualization
 
 <p>
-  <img align='center' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif">
+  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif">
 </p>
 
 ## Introduction
