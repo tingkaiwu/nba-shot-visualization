@@ -6,7 +6,7 @@
 
 ## Introduction
 
-NBA Shot Visualization was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is a dashboard to visualize NBA individual player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com, including a shot chart and user profile view. The purpose of this project was to learn how to use React to develop a morden framework frontend. In addition, I also created 4 filters and 2 shot themes (hexbin and scatter) to provide more customized choice on shot chart, and built an autocomplete player search bar providing a player’s suggestion list (image and name).
+NBA Shot Visualization is a dashboard to visualize NBA individual player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com, including a shot chart and user profile view. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this project was to learn how to use React to develop a morden framework frontend. In addition, I also created 4 filters and 2 shot themes (hexbin and scatter) to provide more customized choice on shot chart, and built an autocomplete player search bar providing a player’s suggestion list (image and name).
 	
 ## Requirement
 
